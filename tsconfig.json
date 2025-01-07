@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": ".",
+      "rootDir": ".",
+      "esModuleInterop": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }  
